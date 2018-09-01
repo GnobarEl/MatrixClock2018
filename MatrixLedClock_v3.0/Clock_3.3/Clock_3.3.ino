@@ -1,9 +1,10 @@
 /**************
   Notes:
-  - Fix BUG ID: 0001
-  - Fix BUG ID:0002
+  - Fix BUG ID: 0001;
+  - Fix BUG ID:0002;
+  - This codes needs a major review;
 
-  Inspired on:
+  I used the followin sites to support this project: (past site list here)
 */
 
 /* Include libraries */
